@@ -15,7 +15,7 @@
   - **Resume JD Analyzer** – AI-powered tool for resume-to-job description matching  
 - 📜 Certified **AWS Cloud Practitioner**  
 - 📫 Reach me at: **matvibhor24@gmail.com**
-- 💬 Chat with my avatar @ **https://vibhor-avatar-portfolio.vercel.app/**
+- 💬 Chat with my avatar at: **https://vibhor-avatar-portfolio.vercel.app/**
 - ⚡ Fun fact: **I love shipping real products, not just building in theory.**
 
 ---
